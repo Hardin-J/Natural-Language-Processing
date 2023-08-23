@@ -4,6 +4,6 @@
 <h2>Ex-2</h2>
 <p>Tokening Text(<a href="Tokenizer.py"><b>Tokenizer.py</b></a>)</p>
 <h2>Ex-3</h2>
-<p>Regular Processing-Stop word removal(<a href="StopWord_removal.py"><b>StopWord_removal.py</b></a>)</p>
+<p>Processing-Stop word removal(<a href="StopWord_removal.py"><b>StopWord_removal.py</b></a>)</p>
 <h2>Ex-4</h2>
 <p>Processing-Stemming(<a href="stemmer.py"><b>stemmer.py</b></a>)</p>
