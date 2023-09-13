@@ -9,3 +9,5 @@
 <p>Processing-Stemming(<a href="stemmer.py"><b>stemmer.py</b></a>)</p>
 <h2>Ex-5</h2>
 <p>Creation of N-grams(<a href="nGrams.py"><b>nGrams.py</b></a>)</p>
+<h2>Ex-6</h2>
+<p>Implement N-Gram smoothing(<a href="ngram-Smoothing.py"><b>ngram-Smoothing.py</b></a>)</p>
