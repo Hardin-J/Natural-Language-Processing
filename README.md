@@ -15,5 +15,5 @@
 <p>Implement of part-of-speech tagging(<a href="pos_Tagging.py"><b>pos_Tagging.py</b></a>)</p>
 <h2>Ex-8</h2>
 <p>Implement of Chunking(<a href="chunking.py"><b>chunking.py</b></a>)</p>
-<h2>Ex-8</h2>
+<h2>Ex-9</h2>
 <p>Implement of different word similarity alogrithm(<a href="diff_word_sim.ipynb"><b>diff_word_sim.ipynb</b></a>)</p>
