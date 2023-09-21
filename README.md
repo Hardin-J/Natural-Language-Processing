@@ -11,3 +11,5 @@
 <p>Creation of N-grams(<a href="nGrams.py"><b>nGrams.py</b></a>)</p>
 <h2>Ex-6</h2>
 <p>Implement N-Gram smoothing(<a href="ngram-Smoothing.py"><b>ngram-Smoothing.py</b></a>)</p>
+<h2>Ex-7</h2>
+<p>Implement of part-of-speech tagging(<a href="pos_Tagging.py"><b>pos_Tagging.py</b></a>)</p>
