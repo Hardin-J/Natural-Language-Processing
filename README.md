@@ -13,3 +13,5 @@
 <p>Implement N-Gram smoothing(<a href="ngram-Smoothing.py"><b>ngram-Smoothing.py</b></a>)</p>
 <h2>Ex-7</h2>
 <p>Implement of part-of-speech tagging(<a href="pos_Tagging.py"><b>pos_Tagging.py</b></a>)</p>
+<h2>Ex-8</h2>
+<p>Implement of Chunking(<a href="chunking.py"><b>chunking.py</b></a>)</p>
